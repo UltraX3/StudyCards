@@ -1,0 +1,10 @@
+Layers of %ROCK_TYPE% contain Fossils	sedimentary
+%?% shows Evolutionary links between groups of organisms	Transitional Fossils
+Order of eras %LARGE_ERA%	Hadean,Archean,Proterozoic,Paleozoic,Meszoic,Cenozoic
+Photosynthesis starts in %LARGE_ERA%	Late Hadean
+Order of development of organisms %LIFE_TYPE%	Prokaryote,Eukaryote,Multicellular life,Animals,Land plants,Mammals,Humans
+%BIO_STRUCTURE% structures are similar by common ancestory	homologous
+%BIO_STRUCTURE% structures are similar by environment	analogous
+%BIO_STRUCTURE% structures that serve little function	vestigal
+%?% is similar when earlier in embryo	comparative embryology
+%?% is when not-related get close	convergent evolution
